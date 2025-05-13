@@ -13,6 +13,8 @@ Efforts to reverse engineer the bluetooth communications used by the [PM310 Inte
      - [x] APK decompilation was successful to the Flutter/Dart interface  
      - [ ] Decompiling the Flutter/Dart VM with Ghidra hasn't been helpful to me so far (the decoding of data appears to be done here)  
 - [ ] Snooping the data interface between the LCD/Bluetooth Device (BMD-PT4J) and the core Power Management Device (PM335J) - manual suggests it is RS485.
+     - [ ] Could be Modbus?
+     - [ ] Hardware ordered! 
 
 ## Scripts
 
